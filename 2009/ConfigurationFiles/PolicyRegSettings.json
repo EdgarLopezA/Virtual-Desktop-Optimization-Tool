@@ -11,14 +11,14 @@
         "RegItemValueName": "LockScreenImage",
         "RegItemValueType": "String",
         "RegItemValue": "C:\\Windows\\web\\screen\\img105.jpg",
-        "VDIState": "Enabled"
+        "VDIState": "Unchanged"
     },
     {
         "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization",
         "RegItemValueName": "LockScreenOverlaysDisabled",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
-        "VDIState": "Enabled"
+        "VDIState": "Unchanged"
     },
     {
         "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\InputPersonalization",
